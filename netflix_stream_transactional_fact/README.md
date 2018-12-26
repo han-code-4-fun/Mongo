@@ -7,6 +7,7 @@
 - Mockaroo custom function (graph)
 - One record (graph)
 - mLab access
+- Queries
 
 ### Description: This DB design is to record user activity on Netflix based on each stream
 
@@ -31,4 +32,7 @@
 - DB name: netflix_project
 - User Name: view
 - User Pwd: hmdp@9aw
+
+### Queries
+Click [here](https://github.com/miaonagemide/Mongo/blob/master/netflix_stream_transactional_fact/querys.js) to see queries related with this design
 
